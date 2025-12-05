@@ -26,10 +26,13 @@ jupyter notebook analysis.ipynb
 
 ## Citation
 ```bibtex
-@article{li2024behind,
-  title={Behind the Scenes: Mechanistic Interpretability of LoRA-adapted Whisper for Speech Emotion Recognition},
-  author={Li, Ruizhe and others},
-  journal={arXiv preprint arXiv:2509.08454},
-  year={2024}
+@misc{ma2025behind
+      title={Behind the Scenes: Mechanistic Interpretability of LoRA-adapted Whisper for Speech Emotion Recognition}, 
+      author={Yujian Ma and Jinqiu Sang and Ruizhe Li},
+      year={2025},
+      eprint={2509.08454},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2509.08454}, 
 }
 ```
